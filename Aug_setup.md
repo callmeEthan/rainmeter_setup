@@ -5,7 +5,8 @@
 # Requirement
 [Rainmeter](https://www.rainmeter.net/)  
 [FrosteGlass plugin](https://forum.rainmeter.net/viewtopic.php?t=23106) by theAzack9  
-[TranslucentTaskbar](https://www.deviantart.com/arkenthera/art/TranslucentTaskbar-1-2-656402039) by arkenthera
+[TranslucentTaskbar](https://www.deviantart.com/arkenthera/art/TranslucentTaskbar-1-2-656402039) by arkenthera  
+[SysColor Plugin](https://forum.rainmeter.net/viewtopic.php?t=14202)  
 # Download
 [SKINS_aug_2019.zip](https://github.com/callmeEthan/rainmeter_setup/releases/download/aug_2019/SKINS_aug_2018.zip)
 # Setup info
