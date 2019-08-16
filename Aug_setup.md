@@ -8,7 +8,7 @@
 [TranslucentTaskbar](https://www.deviantart.com/arkenthera/art/TranslucentTaskbar-1-2-656402039) by arkenthera  
 [SysColor Plugin](https://forum.rainmeter.net/viewtopic.php?t=14202)  
 # Download
-[SKINS_aug_2019.zip](https://github.com/callmeEthan/rainmeter_setup/releases/download/aug_2019/SKINS_aug_2018.zip)
+[SKINS_aug_2019.zip](https://github.com/callmeEthan/rainmeter_setup/releases/download/aug_2019/SKINS_aug_2019.zip)
 # Setup info
 - The power button is just [GameHUB 2 button](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) modified to open power page, the skin itself is not included since it's heavy, please refer to it's devianart page.  
 ![alt text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/5c6572a7-2fb3-47b9-9172-7921b13f1dc5/dcxa8a0-22c9deb7-debf-453d-9849-a695e90001f5.gif)  
