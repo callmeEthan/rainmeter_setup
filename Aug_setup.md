@@ -31,6 +31,7 @@
 - Audio controller also made specifically for this setup ([Basic version link](https://www.deviantart.com/not-finch/art/Small-Volume-Control-for-rainmeter-768403860))  
 ![alt text](https://raw.githubusercontent.com/callmeEthan/rainmeter_setup/master/Screenshot/audio.gif)  
 - PushNotification skin can be turned off if you're concerned about performance. (Not like anyone else use it)  
+- In ColorController skin, there's an overlay hotkey (Alt + O), which will bring the top bar to the topmost, overlay other windows (Does not work on exclusive-fullscreen).
 ## Credit where it's due
 [MiniWeather](https://www.deviantart.com/eclectic-tech/art/MiniWeather-780701124) by Jelle Dekkers  
 [Monstercat Visualizer](https://www.deviantart.com/marcopixel/art/Monstercat-Visualizer-for-Rainmeter-486330771) by marcopixel  
